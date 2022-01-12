@@ -105,7 +105,7 @@
     "lodash-move": "^1.1.1",
     "make-iterator": "^2.0.0",
     "map-cache": "^0.2.2",
-    "markdown-it": "^6.0.1",
+    "markdown-it": "^12.3.2",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-admonition": "^1.0.4",
     "markdown-it-emoji": "^1.1.1",
